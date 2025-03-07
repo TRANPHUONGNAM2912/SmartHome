@@ -1,5 +1,6 @@
 # XÂY DỰNG MÔ HÌNH NHÀ THÔNG MINH KẾT HỢP XỬ LÝ ẢNH
 # Nội dung  
+- Xây dựng mạch nguyên lý và mạch in trên phần mềm Altium  
 - Mở cửa bằng mật khẩu số, vân tay hoặc nhận diện khuôn mặt  
 - Servo mô phỏng cơ chế khóa điện tử tự động đóng mở theo xác thực  
 - Nguồn dự phòng đảm bảo hệ thống vẫn hoạt động khi mất điện  
