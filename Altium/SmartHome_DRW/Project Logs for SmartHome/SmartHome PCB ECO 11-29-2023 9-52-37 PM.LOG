@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=Servo1 Old Footprint=Header 3P DC 2.54 New Footprint=Header3
+Added Member To Class: ClassName=SmartHome Member=Component C6 104
+Added Member To Class: ClassName=SmartHome Member=Component LED1 Header2
+Added Member To Class: ClassName=SmartHome Member=Component LED2 Header2
+Added Member To Class: ClassName=SmartHome Member=Component Q2 TIP122
+Added Member To Class: ClassName=SmartHome Member=Component R4 330

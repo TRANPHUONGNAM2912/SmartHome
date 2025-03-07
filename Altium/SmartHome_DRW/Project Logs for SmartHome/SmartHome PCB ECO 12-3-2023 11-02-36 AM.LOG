@@ -1,0 +1,9 @@
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=SW6(KCD01-11)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH1_1 Pin=SW6-1
+Added Pin To Net: NetName=NetF1_1 Pin=SW6-2
+Added Member To Class: ClassName=SmartHome Member=Component SW6 KCD01-11_SWITCH

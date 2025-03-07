@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=1 NewDesignator=2k2
+Change Component Designator: OldDesignator=2 NewDesignator=3k3
+Change Net Name : Old Net Name=Net1_1 New Net Name=Net2k2_1
+Added Member To Class: ClassName=SmartHome Member=Component LED1 LED
+Added Member To Class: ClassName=SmartHome Member=Component R2 3.3K
+Added Member To Class: ClassName=SmartHome Member=Component R3 3.3K

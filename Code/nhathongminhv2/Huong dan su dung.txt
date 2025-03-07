@@ -1,0 +1,14 @@
+Hướng dẫn sử dụng đề tài nhà thông minh-xử lý ảnh
+1, Cài app lên điện thoại sử dụng hệ điều hành Android
+2, Sau khi nhận mạch, bạn cần phát wifi, wifi cần có mạng nhé
+( Có thể sử dụng điện thoại để phát wifi ra )
+Yêu cầu phát đúng tk và mk này để mạch có thể kết nối được wifi :
+Tài khoản : tp-link
+Mật khẩu : anhvu6868
+Trường hợp không có wifi thì sẽ không dùng app điều khiển được, mọi thứ còn lại bình thường
+3, Muốn mở cửa bằng xử lý ảnh thì sử dụng dây để kết nối giữa esp32 và máy tính
+4, Một số chức nằng  nút trên bàn phím gồm 
+A: Thêm vân tay
+C: đổi mật khẩu
+D: xóa toàn bộ vân tay
+mỗi khi thực hiện 1 chức năng thì phải nhập đúng mật khẩu cũ

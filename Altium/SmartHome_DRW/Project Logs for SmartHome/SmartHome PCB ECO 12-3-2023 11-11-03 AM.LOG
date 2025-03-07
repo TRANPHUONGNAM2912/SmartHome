@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Fan Pin=MD1-10
+Removed Pin From Net: NetName=Spare_out2 Pin=MD1-21
+Added Pin To Net: NetName=Spare_out2 Pin=MD1-10
+Added Pin To Net: NetName=Fan Pin=MD1-21

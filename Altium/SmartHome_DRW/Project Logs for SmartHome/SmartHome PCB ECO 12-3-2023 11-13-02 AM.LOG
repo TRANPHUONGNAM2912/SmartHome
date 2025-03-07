@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Led1 Pin=MD1-8
+Removed Pin From Net: NetName=Spare_out2 Pin=MD1-10
+Added Pin To Net: NetName=Spare_out2 Pin=MD1-8
+Added Pin To Net: NetName=Led1 Pin=MD1-10
