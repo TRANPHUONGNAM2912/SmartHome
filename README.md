@@ -1,4 +1,4 @@
-# XÂY DỰNG MÔ HÌNH NHÀ THÔNG MINH KẾT HỢP XỬ LÝ ẢNH
+# Xây dựng mô hình nhà thông minh kết hợp xử lý ảnh
 # Nội dung  
 - Xây dựng mạch nguyên lý và mạch in trên phần mềm Altium  
 - Mở cửa bằng mật khẩu số, vân tay hoặc nhận diện khuôn mặt  
